@@ -4,11 +4,18 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Hemi.003
+    100004: LightClock
     400000: //RootNode
+    400002: Hemi.003
+    400004: LightClock
     2100000: LightClock
     2300000: //RootNode
+    2300002: LightClock
     3300000: //RootNode
+    3300002: LightClock
     4300000: LightClock
+    10800000: Hemi.003
   externalObjects: {}
   materials:
     importMaterials: 1

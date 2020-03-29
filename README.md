@@ -19,6 +19,14 @@ use this repository.
 [1]: https://vrchat.com/
 
 
+Redistribution
+--------------
+
+Redistribution possible under MIT licence. See `COPYING.txt`.
+
+Would appreciate credit being given, but not required.
+
+
 Usage
 -----
 

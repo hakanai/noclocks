@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: LightClock
   m_Shader: {fileID: 4800000, guid: ab747e497f9f64845ae3d68f78d144e4, type: 3}
   m_ShaderKeywords: 
@@ -83,5 +84,5 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
-    - _EmissionColor: {r: 2.911, g: 2.911, b: 2.911, a: 0}
+    - _EmissionColor: {r: 9.082411, g: 9.082411, b: 9.082411, a: 0}
     - _GearRatios: {r: 1, g: 12, b: 144, a: 1728}

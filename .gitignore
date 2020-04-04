@@ -1,11 +1,11 @@
 
-/Assets/Dependencies/VRCSDK
-/Assets/Dependencies/VRCSDK.meta
-/Assets/Plugins/VRCSDK
-/Assets/Plugins/VRCSDK.meta
-
-/Library
-/Temp
-
 *.blend1
 
+*/Assets/Dependencies/VRCSDK/
+*/Assets/Dependencies/VRCSDK.meta
+*/Assets/Plugins/VRCSDK/
+*/Assets/Plugins/VRCSDK.meta
+
+*/Library/
+*/Logs/
+*/Temp/

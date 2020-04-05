@@ -1,10 +1,10 @@
 
 *.blend1
 
+*/Assets/Dependencies/Udon/
+*/Assets/Dependencies/Udon.meta
 */Assets/Dependencies/VRCSDK/
 */Assets/Dependencies/VRCSDK.meta
-*/Assets/Plugins/VRCSDK/
-*/Assets/Plugins/VRCSDK.meta
 
 */Library/
 */Logs/

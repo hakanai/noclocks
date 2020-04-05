@@ -2,7 +2,14 @@
 NoClocks
 ========
 
-Demonstration of clocks in VRChat by use of `VRC_Panorama`.
+Demonstration of clocks in VRChat:
+
+* SDK2 by use of `VRC_Panorama`
+* SDK3 by use of Udon
+
+Both solutions use a shader for turning the hands. With Udon
+you no longer necessarily need to; I just feel it's a cooler
+solution to the problem. Feel free to disagree.
 
 It's something that has been done before but I feel like I had
 the solution first and just got prevented from release due to
@@ -13,8 +20,10 @@ Missing Dependencies
 --------------------
 
 This repository omits VRCSDK as it is not legal to redistribute.
-Download the latest copy from the [VRChat site][1] in order to
+Download the latest version from the [VRChat site][1] in order to
 use this repository.
+
+SDK2 project uses VRCSDK2. SDK3 project uses VRCSDK3.
 
 [1]: https://vrchat.com/
 
@@ -30,8 +39,9 @@ Would appreciate credit being given, but not required.
 Usage
 -----
 
-`NoClocks.unity` contains a demo scene.
-`Prefabs/` contains some sample prefabs used by the demo scene.
+`NoClocks.unity` in each project contains a demo scene.
+`Prefabs/` in the SDK2 project contains some sample prefabs
+used by the demo scene.
 
 Prefabs are pointing at a server hosted on Heroku at the moment.
 Code for this will most likely be released if issues occur with
